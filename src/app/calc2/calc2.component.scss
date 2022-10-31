@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
+button{
+    flex-basis: 25%;
+}
+h1{
+    color: red;
+}
+input {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
+  .responsiveLong{
+    
+        background-color: white;
+        color: green;
+        border: 2px solid #4CAF50; /* Green */
+      }
+  
+      .responsive{
+    
+        background-color: white;
+        color: green;
+        border: 2px solid #4CAF50; /* Green */
+      }
